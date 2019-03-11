@@ -1,0 +1,219 @@
+*{
+                 margin: 0px;
+				padding: 0px;
+				list-style: none;				
+}
+.big{
+	width: 100%;
+	height: 600px;
+	background: url(../img/bannerV2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+	
+}
+.head1 li{
+	float:right;
+	margin: 15px;
+	color: #FFFFFF;
+}
+.middle{
+	margin-left: 250px;
+	width: 1000px;
+
+	
+}
+.middle img {
+	margin-top: 60px;
+}
+.nav_ul{
+	float: right;
+}
+.nav_ul li{
+	float: left;
+	
+	margin-top: 80px;
+	margin-left: 15px;
+	color: #FFFFFF;
+	
+	
+}
+.body1 h1{
+	margin-top: 50px;
+	color: #FFFFFF;
+	text-align: center;
+}
+.body1 span{
+	text-align: center;
+	margin-left: 550px;
+	color: #FFFFFF;
+	margin-top: 30px;
+}
+.footer li{
+	float: left;
+	color: black;
+	margin: 20px;
+	margin-left: 20px;
+}
+.footer{
+	text-align: center;
+	margin-left: 350px;
+	
+}
+.footer li{
+	font-size: 15px;
+	color:#FFFFFF ;
+}
+/*溢出处理  对子元素设置浮动  要对她的父级设置溢出处理*/
+.b{
+	overflow: hidden;
+}
+.c{
+	float:left;
+	margin-left: 370px;
+}
+.c1{
+	width: 500px;
+	height: 40px;
+	
+}
+.c2{
+	margin-left: -5px;
+	width: 80px;
+	height: 44px;
+	
+	color: #000000;
+	background-color: cadetblue;
+	text-align: center;
+}
+.dibu ul{
+	margin-right: 30px;
+	color:#FFFFFF ;
+	font-size: 10px;
+	margin-top: 250px;
+	margin-left: 80px;
+}
+.dibu li{
+	float: left;
+	margin-left: 20px;	
+	
+}
+.dibu{
+	vertical-align: middle;
+}
+/*图片文字居中*/
+#dibu1 *{
+	display: inline-block;
+	vertical-align: middle;
+}
+.kong{
+overflow: hidden;
+width: 100%;
+height: 180px;
+margin-top: 380px;
+}
+.kong ul{
+margin-left: 160px;
+float: left;
+text-align: center;
+
+}
+.e1{
+color: black;
+font-size: 18px;
+}
+.e2{
+color: gray;
+font-size: 15px;
+}
+.tupian{
+background: url(../img/bg-app.jpg);
+background-repeat: no-repeat;
+background-size:100% 100%;
+width: 100%;
+height: 500px;
+}
+.f{
+margin-left: 80px;
+margin-top: 40px;
+}
+.tupian p{
+margin-left:80px ;
+margin-top: 20px;
+font-size: 12px;
+line-height: 20px;
+}
+.f1{
+margin-left:80px ;
+margin-top: 20px;
+}
+/*.tupian1{
+background: url(../img/QQ图片20190304101848.jpg);
+background-repeat: no-repeat;
+background-size:100% 100%;
+width: 100%;
+height: 200px;
+
+}
+.tupian2 li{
+
+margin-left: 50px;
+}*/
+.ershou ul{
+float: left;
+width: 20%;
+margin-left: 50px;
+}
+.ershou{
+width: 100%;
+height: 300px;
+
+}
+
+#w{
+margin-left: 50px;
+}
+.ershou p{
+margin-left: 50px;
+}
+.ershou span strong{
+color: red;
+}
+.xiaoqu{
+width: 1220px;
+height:500px;
+margin-left: 40px;
+float: left;
+background: #EEEEF1 ;
+margin-top: 20px;
+}
+#xiaoqu1{
+font-size: 28px;
+
+}
+.xiaoqu img{
+width: 25%;
+margin: 30px;
+border: 1px solid antiquewhite;
+margin-left: 40px;
+}
+.xinfang{
+margin-left: 30px;height: 200px;
+
+}
+.xinfang img {
+margin-left: 50px;
+}
+.xinfang1 img{
+width: 25%;
+margin: 45px;
+margin-top: 20px;
+}
+.lu{
+
+background: url(../img/QQ图片20190304101848.jpg);
+background-repeat:no-repeat;
+width: 100%;
+height: 800px;
+background-size:100% ;
+}
